@@ -1,8 +1,8 @@
 require_relative '../minitest_helper'
 
-describe "/" do
+describe "/ Acceptance Test" do
   it "shows a basic homescreen" do
     visit '/'
-    asset page.has_content?("booba")
+    page.must_have_content "Ruboto"
   end
 end
