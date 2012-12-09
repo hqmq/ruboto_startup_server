@@ -1,0 +1,101 @@
+created_at,duration,package,package_version,manufacturer,model,android_version,ruboto_platform_version,ruboto_app_version,test,compile_mode,ruby_version
+2012-12-06 15:23:54 -0600,2952,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.0.1,0.4.9,0.6.1,"Fibonacci, n=20",OFF,1_9
+2012-12-06 15:23:54 -0600,8584,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.1.2,0.4.9,0.7.1,RubotoCore Install,OFF,1_8
+2012-12-06 15:23:54 -0600,9817,org.ruboto.benchmarks,0.1.0,samsung,GT-I9100,2.2,0.4.9,0.6.1,Startup with image,OFF,1_9
+2012-12-06 15:23:54 -0600,8886,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,2.3.6,0.4.7,0.7.1,"Fibonacci, n=25",OFF,1_8
+2012-12-06 15:23:54 -0600,3206,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.2,0.4.9,0.6.1,"Fibonacci, n=20",OFF,1_9
+2012-11-15 18:32:02 -0600,7315,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,2.3.6,0.4.9,0.7.1,RubotoCore Install,OFF,1_8
+2012-12-01 12:45:00 -0600,2809,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.2,0.4.9,0.7.1,"Fibonacci, n=20",OFFIR,1_8
+2012-12-06 15:23:54 -0600,5259,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.2,0.4.7,0.7.1,RubotoCore Install,OFFIR,1_9
+2012-12-01 12:45:00 -0600,10255,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.0.3,0.4.7,0.7.1,Startup with image,OFFIR,1_9
+2012-11-15 18:32:02 -0600,2559,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.0.3,0.4.7,0.6.1,"Fibonacci, n=20",OFFIR,1_9
+2012-12-06 15:23:54 -0600,6456,org.ruboto.startup_timer,0.9.8,samsung,GT-I9100,4.1.2,0.4.7,0.6.1,RubotoCore Install,OFFIR,1_9
+2012-12-01 12:45:00 -0600,8615,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.1.2,0.4.9,0.7.1,Startup,OFFIR,1_9
+2012-12-06 15:23:54 -0600,4297,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,2.2,0.4.9,0.6.1,"Fibonacci, n=20",OFF,1_8
+2012-11-15 18:32:02 -0600,6119,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,2.3.6,0.4.9,0.6.1,Script load,OFFIR,1_8
+2012-11-15 18:32:02 -0600,4503,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,2.3.6,0.4.7,0.7.1,"Fibonacci, n=25",OFFIR,1_8
+2012-11-15 18:32:02 -0600,7122,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.1.2,0.4.9,0.6.1,"Fibonacci, n=25",OFFIR,1_8
+2012-12-06 15:23:54 -0600,9829,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.2,0.4.9,0.7.1,"Fibonacci, n=25",OFFIR,1_8
+2012-12-06 15:23:54 -0600,5996,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,2.2,0.4.9,0.6.1,Startup,OFF,1_8
+2012-12-06 15:23:54 -0600,9196,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.1.1,0.4.7,0.7.1,"Fibonacci, n=20",OFFIR,1_8
+2012-12-01 12:45:00 -0600,5607,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.1.1,0.4.7,0.7.1,"Fibonacci, n=20",OFFIR,1_8
+2012-12-01 12:45:00 -0600,10678,org.ruboto.benchmarks,0.1.0,samsung,GT-N7000,4.0.3,0.4.9,0.6.1,require json,OFF,1_9
+2012-11-15 18:32:02 -0600,1743,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.2,0.4.7,0.7.1,Script load,OFFIR,1_9
+2012-12-01 12:45:00 -0600,5245,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,2.3.6,0.4.9,0.7.1,require json,OFF,1_8
+2012-11-15 18:32:02 -0600,7596,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.0.1,0.4.7,0.6.1,Startup,OFFIR,1_9
+2012-12-01 12:45:00 -0600,1171,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.1.2,0.4.9,0.6.1,Startup,OFFIR,1_8
+2012-11-15 18:32:02 -0600,7332,org.ruboto.benchmarks,0.1.0,samsung,GT-I9300,4.0.3,0.4.7,0.6.1,"Fibonacci, n=20",OFF,1_9
+2012-12-01 12:45:00 -0600,5753,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.0.3,0.4.9,0.7.1,Startup with image,OFF,1_8
+2012-12-01 12:45:00 -0600,8827,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.0.3,0.4.9,0.7.1,"Fibonacci, n=25",OFFIR,1_8
+2012-11-15 18:32:02 -0600,2117,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.1.1,0.4.7,0.6.1,Startup,OFFIR,1_8
+2012-11-15 18:32:02 -0600,1602,org.ruboto.startup_timer,0.9.8,samsung,GT-N7000,2.2,0.4.9,0.7.1,"Fibonacci, n=25",OFF,1_8
+2012-12-01 12:45:00 -0600,10911,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.0.3,0.4.9,0.6.1,require json,OFFIR,1_8
+2012-11-15 18:32:02 -0600,3293,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.1.2,0.4.7,0.6.1,Script load,OFF,1_9
+2012-11-15 18:32:02 -0600,8021,org.ruboto.startup_timer,0.9.8,samsung,GT-I9300,4.0.1,0.4.9,0.6.1,Script load,OFF,1_9
+2012-12-01 12:45:00 -0600,2638,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,2.2,0.4.7,0.6.1,RubotoCore Install,OFF,1_8
+2012-11-15 18:32:02 -0600,10524,org.ruboto.startup_timer,0.9.8,samsung,GT-I9100,2.2,0.4.7,0.6.1,Script load,OFFIR,1_9
+2012-12-01 12:45:00 -0600,5304,org.ruboto.benchmarks,0.1.0,samsung,GT-I9300,2.3.6,0.4.7,0.6.1,Script load,OFFIR,1_8
+2012-12-01 12:45:00 -0600,8164,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.1.2,0.4.9,0.7.1,RubotoCore Install,OFFIR,1_8
+2012-12-06 15:23:54 -0600,2205,org.ruboto.startup_timer,0.9.8,samsung,GT-I9300,4.0.3,0.4.7,0.6.1,Startup with image,OFF,1_9
+2012-12-01 12:45:00 -0600,1479,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.0.1,0.4.7,0.7.1,Startup,OFFIR,1_9
+2012-12-01 12:45:00 -0600,6119,org.ruboto.benchmarks,0.1.0,samsung,GT-I9300,4.0.3,0.4.7,0.6.1,require json,OFFIR,1_9
+2012-12-01 12:45:00 -0600,3205,org.ruboto.startup_timer,0.9.8,samsung,GT-I9100,4.2,0.4.9,0.7.1,"Fibonacci, n=25",OFF,1_9
+2012-12-06 15:23:54 -0600,9847,org.ruboto.startup_timer,0.9.8,samsung,GT-I9100,4.0.1,0.4.7,0.7.1,Startup with image,OFF,1_8
+2012-12-06 15:23:54 -0600,3365,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,2.2,0.4.9,0.6.1,"Fibonacci, n=25",OFFIR,1_9
+2012-12-06 15:23:54 -0600,6766,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.2,0.4.7,0.7.1,require json,OFF,1_8
+2012-11-15 18:32:02 -0600,1464,org.ruboto.startup_timer,0.9.8,samsung,GT-I9100,2.2,0.4.7,0.6.1,RubotoCore Install,OFF,1_8
+2012-12-06 15:23:54 -0600,4030,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.1.2,0.4.7,0.7.1,RubotoCore Install,OFF,1_9
+2012-11-15 18:32:02 -0600,1070,org.ruboto.startup_timer,0.9.8,samsung,GT-I9300,2.2,0.4.9,0.6.1,RubotoCore Install,OFF,1_8
+2012-12-06 15:23:54 -0600,1701,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.1.1,0.4.7,0.7.1,require json,OFF,1_9
+2012-12-01 12:45:00 -0600,1280,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,2.2,0.4.7,0.7.1,RubotoCore Install,OFF,1_8
+2012-11-15 18:32:02 -0600,3698,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.2,0.4.7,0.7.1,"Fibonacci, n=25",OFF,1_9
+2012-12-06 15:23:54 -0600,8166,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.2,0.4.7,0.7.1,RubotoCore Install,OFF,1_9
+2012-12-06 15:23:54 -0600,10189,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.0.1,0.4.9,0.6.1,RubotoCore Install,OFFIR,1_8
+2012-11-15 18:32:02 -0600,1847,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.0.3,0.4.9,0.6.1,"Fibonacci, n=25",OFF,1_9
+2012-11-15 18:32:02 -0600,10238,org.ruboto.startup_timer,0.9.8,samsung,GT-N7000,4.1.2,0.4.7,0.6.1,Startup,OFF,1_9
+2012-12-01 12:45:00 -0600,3252,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,2.2,0.4.7,0.6.1,RubotoCore Install,OFF,1_8
+2012-11-15 18:32:02 -0600,8625,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.2,0.4.7,0.6.1,"Fibonacci, n=20",OFF,1_8
+2012-11-15 18:32:02 -0600,1786,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,2.3.6,0.4.7,0.6.1,Script load,OFFIR,1_9
+2012-11-15 18:32:02 -0600,7896,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,2.2,0.4.7,0.7.1,RubotoCore Install,OFFIR,1_9
+2012-12-01 12:45:00 -0600,8512,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,2.3.6,0.4.9,0.6.1,"Fibonacci, n=20",OFFIR,1_8
+2012-12-06 15:23:54 -0600,5912,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.0.3,0.4.7,0.7.1,RubotoCore Install,OFFIR,1_9
+2012-11-15 18:32:02 -0600,10366,org.ruboto.benchmarks,0.1.0,samsung,GT-I9100,4.1.2,0.4.9,0.7.1,RubotoCore Install,OFF,1_9
+2012-11-15 18:32:02 -0600,2116,org.ruboto.benchmarks,0.1.0,samsung,GT-I9100,4.0.3,0.4.9,0.7.1,RubotoCore Install,OFF,1_9
+2012-12-01 12:45:00 -0600,4718,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.0.3,0.4.7,0.6.1,require json,OFF,1_8
+2012-12-01 12:45:00 -0600,6859,org.ruboto.benchmarks,0.1.0,samsung,GT-I9300,2.3.6,0.4.7,0.6.1,"Fibonacci, n=20",OFFIR,1_8
+2012-12-01 12:45:00 -0600,3036,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.2,0.4.9,0.6.1,"Fibonacci, n=20",OFFIR,1_8
+2012-12-06 15:23:54 -0600,7588,org.ruboto.benchmarks,0.1.0,samsung,GT-I9300,4.1.1,0.4.9,0.7.1,Script load,OFF,1_8
+2012-12-06 15:23:54 -0600,10547,org.ruboto.benchmarks,0.1.0,samsung,GT-N7000,2.2,0.4.7,0.7.1,Startup,OFF,1_8
+2012-11-15 18:32:02 -0600,7015,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.2,0.4.9,0.6.1,RubotoCore Install,OFFIR,1_8
+2012-12-01 12:45:00 -0600,9064,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.1.1,0.4.7,0.7.1,"Fibonacci, n=20",OFFIR,1_9
+2012-11-15 18:32:02 -0600,7058,org.ruboto.startup_timer,0.9.8,samsung,GT-I9100,2.3.6,0.4.9,0.7.1,"Fibonacci, n=25",OFF,1_9
+2012-11-15 18:32:02 -0600,3254,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.0.1,0.4.7,0.6.1,require json,OFF,1_8
+2012-11-15 18:32:02 -0600,3442,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.1.1,0.4.7,0.7.1,require json,OFF,1_8
+2012-12-01 12:45:00 -0600,1393,org.ruboto.benchmarks,0.1.0,samsung,GT-N7000,4.1.1,0.4.7,0.6.1,RubotoCore Install,OFFIR,1_9
+2012-12-06 15:23:54 -0600,4286,org.ruboto.startup_timer,0.9.8,samsung,GT-I9100,4.1.1,0.4.9,0.6.1,Startup with image,OFF,1_8
+2012-12-01 12:45:00 -0600,1553,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,2.2,0.4.7,0.6.1,Startup,OFF,1_9
+2012-11-15 18:32:02 -0600,4964,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.1.1,0.4.7,0.6.1,"Fibonacci, n=25",OFF,1_8
+2012-12-01 12:45:00 -0600,8557,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.1.2,0.4.7,0.6.1,Startup,OFFIR,1_8
+2012-12-06 15:23:54 -0600,2453,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,2.3.6,0.4.9,0.7.1,"Fibonacci, n=25",OFF,1_9
+2012-12-01 12:45:00 -0600,10916,org.ruboto.benchmarks,0.1.0,samsung,GT-I9300,4.2,0.4.9,0.7.1,require json,OFF,1_9
+2012-12-01 12:45:00 -0600,10577,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.0.3,0.4.9,0.6.1,"Fibonacci, n=20",OFFIR,1_8
+2012-12-06 15:23:54 -0600,9885,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.1.1,0.4.7,0.7.1,"Fibonacci, n=20",OFF,1_8
+2012-12-06 15:23:54 -0600,6179,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.0.1,0.4.7,0.6.1,Startup with image,OFF,1_9
+2012-12-06 15:23:54 -0600,10912,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.0.1,0.4.7,0.6.1,RubotoCore Install,OFF,1_9
+2012-12-01 12:45:00 -0600,6800,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,2.3.6,0.4.7,0.7.1,Startup,OFF,1_8
+2012-11-15 18:32:02 -0600,8388,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.1.1,0.4.9,0.7.1,require json,OFF,1_9
+2012-11-15 18:32:02 -0600,1454,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.1.1,0.4.9,0.7.1,Startup with image,OFF,1_9
+2012-12-06 15:23:54 -0600,5997,org.ruboto.startup_timer,0.9.8,samsung,GT-N7000,4.1.2,0.4.7,0.6.1,"Fibonacci, n=25",OFFIR,1_8
+2012-12-01 12:45:00 -0600,7293,org.ruboto.startup_timer,0.9.8,samsung,GT-N7000,2.3.6,0.4.9,0.7.1,"Fibonacci, n=25",OFF,1_9
+2012-11-15 18:32:02 -0600,1536,org.ruboto.benchmarks,0.1.0,HTC,HTC HD2,4.1.2,0.4.7,0.6.1,Startup with image,OFFIR,1_8
+2012-12-01 12:45:00 -0600,2698,org.ruboto.benchmarks,0.1.0,asus,Nexus 7,4.1.1,0.4.7,0.6.1,require json,OFFIR,1_8
+2012-11-15 18:32:02 -0600,4402,org.ruboto.startup_timer,0.9.8,samsung,GT-I9300,2.2,0.4.7,0.7.1,Script load,OFFIR,1_8
+2012-11-15 18:32:02 -0600,4339,org.ruboto.benchmarks,0.1.0,samsung,GT-I9300,4.1.1,0.4.9,0.7.1,RubotoCore Install,OFFIR,1_9
+2012-12-06 15:23:54 -0600,9340,org.ruboto.startup_timer,0.9.8,samsung,GT-I9300,4.0.3,0.4.9,0.7.1,"Fibonacci, n=25",OFF,1_9
+2012-12-06 15:23:54 -0600,3892,org.ruboto.startup_timer,0.9.8,samsung,GT-I9300,4.0.1,0.4.9,0.6.1,Startup,OFF,1_9
+2012-11-15 18:32:02 -0600,2084,org.ruboto.startup_timer,0.9.8,HTC,HTC HD2,4.0.3,0.4.9,0.7.1,RubotoCore Install,OFF,1_8
+2012-12-01 12:45:00 -0600,7291,org.ruboto.startup_timer,0.9.8,samsung,GT-I9100,4.0.1,0.4.9,0.7.1,require json,OFFIR,1_9
+2012-12-01 12:45:00 -0600,4908,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,4.1.2,0.4.7,0.6.1,"Fibonacci, n=25",OFFIR,1_9
+2012-12-06 15:23:54 -0600,9327,org.ruboto.startup_timer,0.9.8,asus,Nexus 7,2.3.6,0.4.9,0.6.1,"Fibonacci, n=20",OFFIR,1_9
+2012-12-01 12:45:00 -0600,6020,org.ruboto.benchmarks,0.1.0,samsung,GT-N7000,4.2,0.4.7,0.7.1,"Fibonacci, n=25",OFFIR,1_9
+2012-12-01 12:45:00 -0600,5384,org.ruboto.startup_timer,0.9.8,samsung,GT-I9300,4.0.1,0.4.7,0.7.1,RubotoCore Install,OFFIR,1_9

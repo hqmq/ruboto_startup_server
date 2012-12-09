@@ -5,3 +5,9 @@
 #
 #   cities = City.create([{ :name => 'Chicago' }, { :name => 'Copenhagen' }])
 #   Mayor.create(:name => 'Daley', :city => cities.first)
+if Rails.env.test?
+  require 'csv'
+  CSV.foreach( File.expand_path("db/test_fixtures.csv", Rails.root), headers: true) do |row|
+    Measurement.create( row.to_hash )
+  end
+end
