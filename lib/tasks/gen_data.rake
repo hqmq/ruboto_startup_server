@@ -38,7 +38,7 @@ task :gen_data => :environment do
 
   Measurement.destroy_all
 
-  100.times do
+  400.times do
     pv = packages_and_versions.shuffle.first
     package = pv.first
     version = pv.last

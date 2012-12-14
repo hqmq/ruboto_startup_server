@@ -13,6 +13,7 @@ require "minitest/pride"
 class MiniTest::Rails::ActiveSupport::TestCase
   # Setup all fixtures in test/fixtures/*.(yml|csv) for all tests in alphabetical order.
   fixtures :all
+  #use_transactional_fixtures = true
 
   # Add more helper methods to be used by all tests here...
   include Capybara::DSL

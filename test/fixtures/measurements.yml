@@ -1,0 +1,3604 @@
+
+measurements0:
+  id: 2101
+  duration: 6132
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.247340'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements1:
+  id: 2103
+  duration: 9676
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.268940'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements2:
+  id: 2105
+  duration: 4948
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.276988'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements3:
+  id: 2107
+  duration: 10554
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.284799'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements4:
+  id: 2111
+  duration: 1556
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.303231'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements5:
+  id: 2112
+  duration: 3879
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.307182'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements6:
+  id: 2114
+  duration: 5638
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.315051'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements7:
+  id: 2115
+  duration: 9188
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.319558'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements8:
+  id: 2117
+  duration: 5338
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.327516'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements9:
+  id: 2119
+  duration: 3565
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.335396'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements10:
+  id: 2120
+  duration: 8819
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.339371'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements11:
+  id: 2121
+  duration: 1438
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.343215'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements12:
+  id: 2122
+  duration: 9571
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.347081'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements13:
+  id: 2124
+  duration: 4271
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.355150'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements14:
+  id: 2125
+  duration: 9803
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.359056'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements15:
+  id: 2126
+  duration: 9676
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.363092'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements16:
+  id: 2136
+  duration: 8642
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.417249'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements17:
+  id: 2137
+  duration: 1921
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.421279'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements18:
+  id: 2140
+  duration: 10830
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.433080'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements19:
+  id: 2142
+  duration: 7551
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.442052'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements20:
+  id: 2143
+  duration: 5636
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.446217'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements21:
+  id: 2145
+  duration: 1067
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.454745'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements22:
+  id: 2148
+  duration: 4274
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.466652'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements23:
+  id: 2153
+  duration: 3938
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.487479'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements24:
+  id: 2154
+  duration: 5315
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.491408'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements25:
+  id: 2155
+  duration: 9267
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.495461'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements26:
+  id: 2156
+  duration: 2235
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.499596'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements27:
+  id: 2157
+  duration: 1926
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.503625'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements28:
+  id: 2159
+  duration: 8071
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.511808'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements29:
+  id: 2161
+  duration: 2493
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.519842'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements30:
+  id: 2162
+  duration: 9808
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.523927'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements31:
+  id: 2167
+  duration: 9211
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.544040'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements32:
+  id: 2169
+  duration: 3090
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.551966'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements33:
+  id: 2170
+  duration: 3217
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.555953'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements34:
+  id: 2171
+  duration: 1215
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.559993'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements35:
+  id: 2176
+  duration: 8042
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.580251'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements36:
+  id: 2178
+  duration: 4957
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.588515'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements37:
+  id: 2183
+  duration: 6620
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.622676'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements38:
+  id: 2184
+  duration: 4790
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.627128'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements39:
+  id: 2185
+  duration: 5387
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.631140'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements40:
+  id: 2186
+  duration: 7002
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.634886'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements41:
+  id: 2190
+  duration: 4852
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.651097'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements42:
+  id: 2191
+  duration: 3649
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.655015'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements43:
+  id: 2193
+  duration: 2841
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.662357'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements44:
+  id: 2194
+  duration: 10605
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.666098'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements45:
+  id: 2195
+  duration: 3146
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.669799'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements46:
+  id: 2198
+  duration: 9525
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.681086'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements47:
+  id: 2203
+  duration: 10275
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.699836'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements48:
+  id: 2204
+  duration: 3556
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.703613'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements49:
+  id: 2206
+  duration: 2672
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.711082'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements50:
+  id: 2207
+  duration: 9302
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.715186'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements51:
+  id: 2208
+  duration: 3164
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.720211'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements52:
+  id: 2211
+  duration: 4771
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.733151'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements53:
+  id: 2212
+  duration: 2017
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.737242'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements54:
+  id: 2213
+  duration: 8663
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.741078'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements55:
+  id: 2216
+  duration: 7247
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.753579'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements56:
+  id: 2217
+  duration: 3829
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.757588'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements57:
+  id: 2218
+  duration: 6725
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.761569'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements58:
+  id: 2219
+  duration: 4993
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.765469'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements59:
+  id: 2222
+  duration: 10942
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.777626'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements60:
+  id: 2223
+  duration: 3136
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.781588'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements61:
+  id: 2226
+  duration: 6829
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.793803'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements62:
+  id: 2229
+  duration: 2484
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.806196'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements63:
+  id: 2234
+  duration: 7151
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.839893'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements64:
+  id: 2235
+  duration: 8769
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.843860'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements65:
+  id: 2240
+  duration: 2519
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.864362'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements66:
+  id: 2241
+  duration: 6227
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.868136'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements67:
+  id: 2242
+  duration: 9295
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.872230'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements68:
+  id: 2244
+  duration: 6756
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.880187'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements69:
+  id: 2245
+  duration: 4835
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.884098'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements70:
+  id: 2246
+  duration: 5602
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.888034'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements71:
+  id: 2248
+  duration: 6106
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.895861'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements72:
+  id: 2253
+  duration: 10322
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.915999'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements73:
+  id: 2256
+  duration: 1926
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.927379'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements74:
+  id: 2259
+  duration: 3219
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.938309'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements75:
+  id: 2260
+  duration: 7376
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.942079'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements76:
+  id: 2261
+  duration: 9057
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.945834'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements77:
+  id: 2262
+  duration: 9696
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.949514'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements78:
+  id: 2264
+  duration: 9282
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:36.957313'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements79:
+  id: 2265
+  duration: 4524
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.961722'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements80:
+  id: 2267
+  duration: 6072
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.969021'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements81:
+  id: 2268
+  duration: 7005
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.972766'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements82:
+  id: 2269
+  duration: 7795
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.976579'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements83:
+  id: 2270
+  duration: 8501
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.980418'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements84:
+  id: 2271
+  duration: 8012
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.984193'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements85:
+  id: 2274
+  duration: 9304
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:36.995365'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements86:
+  id: 2275
+  duration: 3139
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:36.999130'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements87:
+  id: 2277
+  duration: 4834
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.008059'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements88:
+  id: 2278
+  duration: 6887
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.011801'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements89:
+  id: 2279
+  duration: 2959
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.015692'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements90:
+  id: 2280
+  duration: 10528
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.019656'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements91:
+  id: 2281
+  duration: 7037
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.035603'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements92:
+  id: 2283
+  duration: 5766
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.043054'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements93:
+  id: 2284
+  duration: 10625
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.046843'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements94:
+  id: 2287
+  duration: 8376
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.058210'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements95:
+  id: 2288
+  duration: 10045
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.061889'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements96:
+  id: 2289
+  duration: 3051
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.066377'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements97:
+  id: 2291
+  duration: 10173
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.074023'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements98:
+  id: 2293
+  duration: 6732
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.081522'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements99:
+  id: 2295
+  duration: 1783
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.088692'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements100:
+  id: 2296
+  duration: 4648
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.092391'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements101:
+  id: 2299
+  duration: 8537
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.103702'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements102:
+  id: 2300
+  duration: 1005
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.107489'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements103:
+  id: 2306
+  duration: 5250
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.130781'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements104:
+  id: 2309
+  duration: 9817
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.141921'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements105:
+  id: 2310
+  duration: 7840
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.145760'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements106:
+  id: 2311
+  duration: 6687
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.149602'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements107:
+  id: 2312
+  duration: 7617
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.153246'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements108:
+  id: 2313
+  duration: 5878
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.157425'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements109:
+  id: 2315
+  duration: 8596
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.165233'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements110:
+  id: 2316
+  duration: 2128
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.168962'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements111:
+  id: 2317
+  duration: 5670
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.172791'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements112:
+  id: 2320
+  duration: 1787
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.184320'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements113:
+  id: 2323
+  duration: 9571
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.195698'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements114:
+  id: 2324
+  duration: 6254
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.199327'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements115:
+  id: 2325
+  duration: 2434
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.203713'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements116:
+  id: 2326
+  duration: 4559
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.207685'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements117:
+  id: 2328
+  duration: 8838
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.215618'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements118:
+  id: 2331
+  duration: 9835
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.239310'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements119:
+  id: 2333
+  duration: 5453
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.247121'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements120:
+  id: 2334
+  duration: 10928
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.250895'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements121:
+  id: 2338
+  duration: 2575
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.266730'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements122:
+  id: 2339
+  duration: 7367
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.270222'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements123:
+  id: 2342
+  duration: 10943
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.281299'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements124:
+  id: 2345
+  duration: 2982
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.292410'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements125:
+  id: 2346
+  duration: 9919
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.296050'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements126:
+  id: 2348
+  duration: 5684
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.303762'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements127:
+  id: 2350
+  duration: 4735
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.311817'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements128:
+  id: 2351
+  duration: 10890
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.315506'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements129:
+  id: 2352
+  duration: 1430
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.319760'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements130:
+  id: 2353
+  duration: 2549
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.323837'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements131:
+  id: 2355
+  duration: 7953
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.331391'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements132:
+  id: 2356
+  duration: 6775
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.335264'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements133:
+  id: 2357
+  duration: 5240
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.339000'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements134:
+  id: 2358
+  duration: 4378
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.342711'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements135:
+  id: 2362
+  duration: 1467
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.357563'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements136:
+  id: 2365
+  duration: 6166
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.368554'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements137:
+  id: 2366
+  duration: 4126
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.372219'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements138:
+  id: 2367
+  duration: 5623
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.375892'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements139:
+  id: 2368
+  duration: 3342
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.379979'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements140:
+  id: 2371
+  duration: 5564
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.391595'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements141:
+  id: 2372
+  duration: 7250
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.395336'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements142:
+  id: 2373
+  duration: 10075
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.398982'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements143:
+  id: 2375
+  duration: 2262
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.406577'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements144:
+  id: 2379
+  duration: 9304
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.421679'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements145:
+  id: 2380
+  duration: 2750
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.425473'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements146:
+  id: 2381
+  duration: 10081
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.429259'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements147:
+  id: 2383
+  duration: 2021
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.449122'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements148:
+  id: 2384
+  duration: 6039
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.452886'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements149:
+  id: 2385
+  duration: 8904
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.456645'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements150:
+  id: 2386
+  duration: 1856
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.460372'
+  test: RubotoCore Install
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements151:
+  id: 2387
+  duration: 8296
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.463897'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements152:
+  id: 2388
+  duration: 3950
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.467903'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements153:
+  id: 2390
+  duration: 3748
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.475269'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements154:
+  id: 2392
+  duration: 10543
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.482678'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements155:
+  id: 2394
+  duration: 5183
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.489997'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements156:
+  id: 2395
+  duration: 9557
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.493654'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements157:
+  id: 2397
+  duration: 1371
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.501069'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements158:
+  id: 2399
+  duration: 7390
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.508766'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements159:
+  id: 2401
+  duration: 1882
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.516161'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements160:
+  id: 2403
+  duration: 3408
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.523484'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements161:
+  id: 2408
+  duration: 5953
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.542212'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements162:
+  id: 2409
+  duration: 2478
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.546063'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements163:
+  id: 2410
+  duration: 3751
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.549703'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements164:
+  id: 2411
+  duration: 1869
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.553409'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements165:
+  id: 2412
+  duration: 9146
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.557096'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements166:
+  id: 2413
+  duration: 7209
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.561015'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements167:
+  id: 2414
+  duration: 7423
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.564955'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements168:
+  id: 2423
+  duration: 7827
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.598176'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements169:
+  id: 2424
+  duration: 2771
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.602161'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements170:
+  id: 2427
+  duration: 2965
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.613756'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements171:
+  id: 2431
+  duration: 9753
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.628983'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements172:
+  id: 2432
+  duration: 4460
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.645427'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements173:
+  id: 2434
+  duration: 3403
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.652868'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements174:
+  id: 2435
+  duration: 8137
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.656583'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements175:
+  id: 2438
+  duration: 9162
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.667767'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements176:
+  id: 2441
+  duration: 10516
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.680409'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements177:
+  id: 2445
+  duration: 7816
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.695904'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements178:
+  id: 2446
+  duration: 8089
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.699780'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements179:
+  id: 2450
+  duration: 7070
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.714299'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements180:
+  id: 2451
+  duration: 1121
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.717875'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements181:
+  id: 2452
+  duration: 1333
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.721609'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements182:
+  id: 2454
+  duration: 6354
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.729106'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements183:
+  id: 2455
+  duration: 4812
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.732889'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements184:
+  id: 2456
+  duration: 9856
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.736661'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements185:
+  id: 2458
+  duration: 10226
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.744206'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements186:
+  id: 2461
+  duration: 1780
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.755510'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements187:
+  id: 2462
+  duration: 2680
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.759252'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements188:
+  id: 2463
+  duration: 2865
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.763060'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements189:
+  id: 2468
+  duration: 2118
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.782967'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements190:
+  id: 2470
+  duration: 8205
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.791330'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements191:
+  id: 2472
+  duration: 2438
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.799355'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements192:
+  id: 2474
+  duration: 8640
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.807512'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements193:
+  id: 2477
+  duration: 10462
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.819577'
+  test: Startup
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements194:
+  id: 2479
+  duration: 3045
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.827834'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements195:
+  id: 2480
+  duration: 8783
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.832001'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements196:
+  id: 2481
+  duration: 8253
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.836200'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements197:
+  id: 2482
+  duration: 9270
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: 4.1.1
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.852432'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements198:
+  id: 2483
+  duration: 7996
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 2.3.6
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.856569'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements199:
+  id: 2484
+  duration: 1408
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.860577'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements200:
+  id: 2485
+  duration: 1940
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.864586'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements201:
+  id: 2486
+  duration: 2035
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.868624'
+  test: RubotoCore Install
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements202:
+  id: 2489
+  duration: 3242
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.880489'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_8'
+
+
+measurements203:
+  id: 2490
+  duration: 4335
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: asus
+  model: Nexus 7
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.884466'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements204:
+  id: 2491
+  duration: 8742
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-N7000
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.888451'
+  test: Startup
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements205:
+  id: 2492
+  duration: 5858
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.892512'
+  test: require json
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements206:
+  id: 2493
+  duration: 5013
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: asus
+  model: Nexus 7
+  android_version: '2.2'
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.896487'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements207:
+  id: 2494
+  duration: 8233
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.0.3
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.900525'
+  test: Fibonacci, n=25
+  compile_mode: OFFIR
+  ruby_version: '1_9'
+
+
+measurements208:
+  id: 2495
+  duration: 10308
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.904436'
+  test: Fibonacci, n=25
+  compile_mode: 'OFF'
+  ruby_version: '1_9'
+
+
+measurements209:
+  id: 2496
+  duration: 3573
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: HTC
+  model: HTC HD2
+  android_version: '4.2'
+  ruboto_platform_version: 0.4.9
+  ruboto_app_version: 0.6.1
+  created_at: '2012-12-01 18:45:00.000000'
+  updated_at: '2012-12-10 04:35:37.908459'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements210:
+  id: 2499
+  duration: 10869
+  package: org.ruboto.startup_timer
+  package_version: 0.9.8
+  manufacturer: samsung
+  model: GT-I9100
+  android_version: 4.0.1
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.7.1
+  created_at: '2012-12-06 21:23:54.000000'
+  updated_at: '2012-12-10 04:35:37.920414'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
+
+measurements211:
+  id: 2500
+  duration: 9491
+  package: org.ruboto.benchmarks
+  package_version: 0.1.0
+  manufacturer: samsung
+  model: GT-I9300
+  android_version: 4.1.2
+  ruboto_platform_version: 0.4.7
+  ruboto_app_version: 0.6.1
+  created_at: '2012-11-16 00:32:02.000000'
+  updated_at: '2012-12-10 04:35:37.924351'
+  test: require json
+  compile_mode: 'OFF'
+  ruby_version: '1_8'
+
